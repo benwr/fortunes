@@ -15,3 +15,9 @@ Finally, I added a Makefile with three targets: `all`, `clean`, and `install`.
 
 I'm not sure if I'll ever add more fortunes here, but it will be convenient
 to have this repository if I ever do want to.
+
+Licensed under the GPL v2 as per the source quotes repository (although
+I'm not very certain of the validity of releasing a quotes archive
+under a copyleft license - presumably the authors or their corporate avatars
+control the copyright to some of these quotes. I will, of course, respond
+appropriately to copyright claims if necessary)
