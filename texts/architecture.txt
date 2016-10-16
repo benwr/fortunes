@@ -1,3 +1,6 @@
 "Architecture is a fallacy. Only by incremental change with a large
 'diverse' group can you solve problems. Like an ants' nest." 
   - Pieter Hintjens
+%
+If you're not writing a program, you shouldn't use a programming language.
+  - Leslie Lamport
